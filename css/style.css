@@ -3,7 +3,7 @@
 h2{font-family:'PT Sans Narrow', sans-serif;font-weight:bold;}
 #tudo{padding-bottom:30px;box-shadow:0 0px 8px 0 rgba(0, 0, 0, 0.2);padding-top:50px;color:black;min-height:100%;}
 #banner{height:100%;width:auto;margin:0px;padding:0px;-webkit-filter:brightness(120%) sepia(20%);filter:brightness(120%) sepia(20%);}
-.thumbnail{background-image:url(images/brasao_escolademinas.jpg);margin:0px;padding:5px;max-width:80%;height:auto;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);text-align:center;}
+.thumbnail{margin:0px;padding:5px;max-width:80%;height:auto;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);text-align:center;}
 .img-circle{border:8px solid grey;margin-bottom:25px;max-width:70%;height:auto;}
 .equipe:hover{border-color:#4A708B;opacity:0.8;}
 .navbar-default{background:rgba(62, 69, 81, 0.8);border-color:transparent;background-image:none;box-shadow:none;margin:0px;text-shadow:0 2px 0 black;}
