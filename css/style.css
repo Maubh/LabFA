@@ -47,7 +47,7 @@ h2 {
 
 /*Personalização das imagens dos links*/
 .thumbnail{
-	background-image:url(images/brasao_escolademinas.jpg);
+	/*background-image:url(images/brasao_escolademinas.jpg);*/
 	margin:0px;
 	padding:5px;
 	max-width:80%;
